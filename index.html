@@ -1,0 +1,1 @@
+<h1>subdomain takeover</h1>
